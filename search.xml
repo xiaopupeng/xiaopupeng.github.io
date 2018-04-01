@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[用Hexo简洁优雅的搭建个人博客，然后免费发布到github或高大上的edu域名（一）]]></title>
+    <url>%2F2018%2F03%2F13%2FTutorial1%2F</url>
+    <content type="text"><![CDATA[写在前面既然你被标题吸引进来了，为避免浪费你宝贵的时间，现列出本文的主要目的和内容： 帮助没有任何编程基础知识的小白一步步拥有自己的个人博客 在引用并总结大佬文章的同时，尽量详细的帮助新手避免容易踩的坑 本系列最后一篇会给出一键式安装本人个性化定制后的模板的方法，从而将更多注意力集中在写博客而不是纠结在工具的安装 丰富俺自己的博客，攒攒人气 如果你发现自己更感兴趣了，那咱们开始。 缘起前段时间因为找实习的需要，折腾Resume的同时心血来潮了一把，觉得如果自己搭建一个个人博客来介绍自己，应该会给自己的展示面多少加一点印象分吧(hopefully)，于是呼，怀着多少有些兴奋的心情，开始了这一段优雅的折腾之旅。。。 而对于看到这篇文章的你而言，我个人认为不论所学专业如何，或是在个人的兴趣爱好方面颇有心得或建树，更或者只是记录自己的流水账和碎碎念，用一个自己一手搭建并能够简洁优雅的表达、整理和总结的空间来与世界沟通是一件非常美好的事情。而反过来，这样一种表达，或者说输出的需求，也能让我们主动对自己输入能够激发更多的思考的信息和知识。 于此同时，这个属于自己的平台还能够将自己的各个社交平台链接集结于此，避免每次要给新认识的朋友留下一堆账号的麻烦。想象一下，直接甩给对方一个学校的edu网址，让她/他自己去follow你的全平台社交账户，是一件多么高(zhuang)效(bi)的事情。（其他更多功能这里就不一一列举了） 思想工作准备完毕，一顿google大餐后便得知目前搭建个人技术博客的最佳组合是Hexo+Next+Github(具体原因往后看)，遂决定按照各路大佬的指引(铺天盖地)来DIY一把。 这样一来事情算是开了个好头，接下来的日子，hexo的各种折腾成了我打发闲暇时光的好事儿。子曰，独乐乐不如众乐乐，借着新开博客的幸福感还未散去的劲儿，就来为大家折腾这篇系列攻略吧，是为缘起。 初识Hexo咳咳，闲话少絮，咱先拿我自己的博客来验验货，是不是还看得过去了^_^。但如果觉得我的这个主题太白开水，那还有这样的和这样的例子，以及官方海量的主题模板在等着你探索. 好了，如果这个时候你已经成功被我安利了钩子，那接下来就让咱们快速的认识一下Hexo：1Hexo 是一个快速、简洁且高效的博客框架。使用 Markdown 解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 有的同学可能没有读懂，我来划一下重点 Hexo生成的是静态网页，所以你不用担心托管到服务器的博文丢失的风险 Hexo可以完全免费的部署到github或学校分配的edu域名 Hexo简洁小巧，只需简单几个命令即可生成网页且速度很快，例如： 123hexo g #生成网页文件夹hexo s #启动本地虚拟服务器hexo d #部署到指定域名 Hexo的界面纯净优雅，同时具备许多强大插件和优秀主题，非常适合有洁癖又喜欢折腾的人（比如我） 至于Markdown, 你可以理解为一种学习曲线异常平坦的纯文本编辑语言，好处依然是简洁小巧，纯净优雅 准备工作首先，还是把官方文档以及各位大佬的干货贴放在这里，姑且也可以算整理一个主要引用列表。当然，如果你想就此抛开本教程，直接开始自己的折腾之旅，我当然也不会拦着（然后采坑了再回来看看也行) Hexo文档NexT主题官方文档Markdown攻略超深度优化(折腾)攻略 接下来你可以期待的这篇缘起算是给这个系列的攻略开了个头，接下来我会分3-5篇逐一介绍环境搭建与安装，主题设定和插件安装，更多实用功能以及一键式懒人安装来给大家呈现一个完整的博客搭建折腾之旅，快去准备好小板凳吧 ^_^]]></content>
+      <categories>
+        <category>Tutorial</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Spring Lantern Festival]]></title>
+    <url>%2F2018%2F03%2F03%2FNew-post%2F</url>
+    <content type="text"><![CDATA[This is why we miss our hometown.]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+      <tags>
+        <tag>pics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[WeatherMap]]></title>
+    <url>%2F2018%2F03%2F03%2FWeatherMap%2F</url>
+    <content type="text"><![CDATA[This is our 48 hours group project for the equifax “Code-A-Thon” competition, which helped us listed in the top 6 teams on the Finalist (50 teams total) A brief memo is provided here.And the final product has been deployed online here, with a video demo showing as: For more develop tech info, please refer to this slides]]></content>
+      <categories>
+        <category>project</category>
+      </categories>
+      <tags>
+        <tag>weathermap</tag>
+      </tags>
+  </entry>
+</search>
